@@ -1,0 +1,2 @@
+# jellyfin
+jellyfin docker configuration
